@@ -1173,7 +1173,7 @@
     {
       "userId": 1,
       "title": "New todo!",
-      "completed": false,
+      "completed": true,
       "id": 201
     },
     {
